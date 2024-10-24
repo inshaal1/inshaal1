@@ -6,7 +6,7 @@ I have a passion for reading, sketching, learning new things, and exploring much
 - C++
 - HTML
 - CSS
-- Visual Studio Community
+- Visual Studio Community/Code
 - React Native (currently learning)
 
 #### Current Project  
